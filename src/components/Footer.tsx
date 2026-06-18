@@ -8,10 +8,12 @@ export default function Footer() {
         <div className="grid md:grid-cols-4 gap-8 mb-12">
           <div className="col-span-2 md:col-span-1">
             <div className="flex items-center gap-3 mb-6">
-              <img src="/src/assets/images/pickupwale_new_logo_1781715452666.jpg" alt="Pickupwale Logo" className="w-12 h-12 object-contain rounded-md border border-white/20 bg-white/5" referrerPolicy="no-referrer" />
-              <div className="flex flex-col">
-                <span className="font-display font-bold text-2xl leading-none text-white tracking-tight">Pickupwale</span>
-                <span className="text-[10px] font-semibold text-brand-orange tracking-widest uppercase mt-0.5">We Pickup We Deliver</span>
+              <img src="/src/assets/images/pickupwale_modern_logo_1781799379825.jpg" alt="Pickupwale Logo" className="w-12 h-12 object-contain rounded-md border border-white/20 bg-white/5" referrerPolicy="no-referrer" />
+              <div className="flex flex-col pt-1">
+                <span className="font-display font-extrabold text-[26px] leading-none text-white tracking-tight uppercase">
+                  Pickup<span className="text-brand-orange">wale</span>
+                </span>
+                <span className="text-[10px] font-bold text-gray-400 tracking-[0.15em] uppercase mt-1">We Pickup • We Deliver</span>
               </div>
             </div>
             <p className="text-brand-blue-100/80 mb-6 text-sm leading-relaxed">
