@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Pickupwale.in",
+  "description": "Premium courier \u0026 cargo partner for perfume manufacturers, exporters, traders, and online sellers in Kannauj.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
